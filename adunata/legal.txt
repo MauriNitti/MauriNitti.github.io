@@ -1,3 +1,10 @@
+<b>User-Generated Content</b>
+Adunata ships with no third-party game content. All maps, images, documents, audio and other material you import are supplied by you.
+
+By importing content into Adunata you confirm that you own it or otherwise hold the rights and permissions necessary to use it, and — where Adunata transmits that content to other players in your session — to share it with them. Sharing content with the other players at your table creates a copy on their machines; you are responsible for ensuring you are permitted to make that copy. Adunata accepts no responsibility for user-generated content or for copyright infringement arising from it.
+
+If you believe content shared through Adunata infringes your rights, contact us at the address below.
+
 <b>Legal & Attribution Notice</b>
 This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at <link="https://dnd.wizards.com/resources/systems-reference-document"><color=#66B3FF><u>System Reference Document 5.1</u></color></link>. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at <link="https://creativecommons.org/licenses/by/4.0/legalcode"><color=#66B3FF><u>https://creativecommons.org/licenses/by/4.0/legalcode</u></color></link>.
 
@@ -29,13 +36,6 @@ Music and ambience by [[VERIFY: publisher of the Fantasy Ultimate Music Collecti
 
 <b>Software Disclaimer & Limitation of Liability</b>
 Adunata is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
-
-<b>User-Generated Content</b>
-Adunata ships with no third-party game content. All maps, images, documents, audio and other material you import are supplied by you.
-
-By importing content into Adunata you confirm that you own it or otherwise hold the rights and permissions necessary to use it, and — where Adunata transmits that content to other players in your session — to share it with them. Sharing content with the other players at your table creates a copy on their machines; you are responsible for ensuring you are permitted to make that copy. Adunata accepts no responsibility for user-generated content or for copyright infringement arising from it.
-
-If you believe content shared through Adunata infringes your rights, contact us at the address below.
 
 <b>Privacy</b>
 To provide online play, Adunata uses Steam and Epic Online Services, which process account identifiers and network information. Full details are in our privacy policy at <link="https://maurinitti.github.io/adunata/privacy.html"><color=#66B3FF><u>maurinitti.github.io/adunata/privacy.html</u></color></link>.
