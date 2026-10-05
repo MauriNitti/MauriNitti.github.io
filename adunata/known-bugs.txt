@@ -1,8 +1,5 @@
-<b>Known Issues</b>
-This list is updated online, so it may change between game updates.
-
 <b>Stutter when moving the mouse quickly (Windows)</b>
-On some Windows PCs, moving the mouse quickly can freeze the game for a fraction of a second. It mostly affects gaming mice with a high polling rate (1000 Hz or more). It is caused by a known bug in the Unity engine, which Adunata is built with, not by your PC or your connection.
+On some Windows PCs, moving the mouse quickly can make the game stutter. It mostly affects gaming mice with a high polling rate (1000 Hz or more). It is caused by a known bug in the Unity engine, which Adunata is built with, not by your PC or your connection.
 
 <b>Workaround:</b> lower your mouse's polling rate to 500 Hz, or to 125 Hz if 500 Hz is not enough. You can change it in your mouse's software, for example Razer Synapse, Logitech G HUB or Corsair iCUE. Many mice also have a button on the underside for it. Remember to set it back when you play other games, if you prefer.
 
