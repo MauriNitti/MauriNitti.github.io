@@ -1,0 +1,46 @@
+<b>Legal & Attribution Notice</b>
+This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at <link="https://dnd.wizards.com/resources/systems-reference-document"><color=#66B3FF><u>System Reference Document 5.1</u></color></link>. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at <link="https://creativecommons.org/licenses/by/4.0/legalcode"><color=#66B3FF><u>https://creativecommons.org/licenses/by/4.0/legalcode</u></color></link>.
+
+Adunata is an independent product and is not affiliated with, endorsed, sponsored or specifically approved by Wizards of the Coast LLC. Dungeons & Dragons, D&D and their respective logos are trademarks of Wizards of the Coast LLC in the United States and other countries. Use of SRD 5.1 material under CC BY 4.0 does not imply any endorsement by Wizards of the Coast LLC.
+
+<b>Third-Party Software</b>
+Adunata is made with Unity. Unity, the Unity logo and other Unity trademarks are trademarks or registered trademarks of Unity Technologies. Unity packages — including Netcode for GameObjects, the Universal Render Pipeline, TextMeshPro, the Input System, and Unity Gaming Services (Relay and Lobby) — are used under the <link="https://unity.com/legal/licenses/unity-companion-license"><color=#66B3FF><u>Unity Companion License</u></color></link>.
+
+Steamworks.NET — Copyright © Riley Labrecque. Licensed under the MIT License, available at <link="https://github.com/rlabrecque/Steamworks.NET/blob/master/LICENSE.txt"><color=#66B3FF><u>github.com/rlabrecque/Steamworks.NET</u></color></link>. Steamworks SDK © Valve Corporation. Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
+
+Epic Online Services — Adunata uses Epic Online Services, © Epic Games, Inc. Epic, Epic Games, the Epic Games logo, Epic Online Services and the Epic Online Services logo are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere. The EOS Plugin for Unity is © PlayEveryWare, Inc. and is available at <link="https://github.com/PlayEveryWare/eos_plugin_for_unity"><color=#66B3FF><u>github.com/PlayEveryWare/eos_plugin_for_unity</u></color></link>.
+
+Unity Native File Picker — Copyright © Süleyman Yasir Kula. Licensed under the MIT License, available at <link="https://github.com/yasirkula/UnityNativeFilePicker/blob/master/LICENSE.txt"><color=#66B3FF><u>github.com/yasirkula/UnityNativeFilePicker</u></color></link>.
+
+<b>MIT License Notice</b>
+The following notice applies to the MIT-licensed components listed above:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+<b>Fonts</b>
+Liberation Sans — Copyright © Red Hat, Inc. Open Sans — Copyright © The Open Sans Project Authors. Raleway — Copyright © The Raleway Project Authors. All three are licensed under the SIL Open Font License, Version 1.1, available at <link="https://openfontlicense.org"><color=#66B3FF><u>https://openfontlicense.org</u></color></link>.
+
+<b>Music & Audio</b>
+Music and ambience by [[VERIFY: publisher of the Fantasy Ultimate Music Collection]], used under the <link="https://unity.com/legal/as-terms"><color=#66B3FF><u>Unity Asset Store End User License Agreement</u></color></link>.
+
+<b>Software Disclaimer & Limitation of Liability</b>
+Adunata is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+
+<b>User-Generated Content</b>
+Adunata ships with no third-party game content. All maps, images, documents, audio and other material you import are supplied by you.
+
+By importing content into Adunata you confirm that you own it or otherwise hold the rights and permissions necessary to use it, and — where Adunata transmits that content to other players in your session — to share it with them. Sharing content with the other players at your table creates a copy on their machines; you are responsible for ensuring you are permitted to make that copy. Adunata accepts no responsibility for user-generated content or for copyright infringement arising from it.
+
+If you believe content shared through Adunata infringes your rights, contact us at the address below.
+
+<b>Privacy</b>
+To provide online play, Adunata uses Steam and Epic Online Services, which process account identifiers and network information. Full details are in our privacy policy at <link="https://maurinitti.github.io/adunata/privacy.html"><color=#66B3FF><u>maurinitti.github.io/adunata/privacy.html</u></color></link>.
+
+<b>Contact</b>
+<link="mailto:info.1manband@gmail.com"><color=#66B3FF><u>info.1manband@gmail.com</u></color></link>
+
+Adunata © Maurizio Nitti. All rights reserved.
