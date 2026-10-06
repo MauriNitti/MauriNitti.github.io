@@ -41,7 +41,7 @@ Adunata is provided "as is", without warranty of any kind, express or implied, i
 <b>Privacy</b>
 To provide online play, Adunata uses Steam and Epic Online Services, which process account identifiers and network information. Full details are in our privacy policy at <link="https://maurinitti.github.io/adunata/privacy.html"><color=#66B3FF><u>maurinitti.github.io/adunata/privacy.html</u></color></link>.
 
-<b>Contact</b>
+<b>Contact info</b>
 <link="mailto:info.1manband@gmail.com"><color=#66B3FF><u>info.1manband@gmail.com</u></color></link>
 
 Adunata © Maurizio Nitti. All rights reserved.
